@@ -43,3 +43,18 @@
 [16:28:13] [Server thread/INFO]: LoroCapitalista joined the game
 [16:29:00] [Server thread/INFO]: Made LoroCapitalista a server operator
 [16:33:50] [Server thread/INFO]: [LoroCapitalista: Set own game mode to Creative Mode]
+[16:42:53] [Server thread/INFO]: LoroCapitalista lost connection: Disconnected
+[16:42:53] [Server thread/INFO]: LoroCapitalista left the game
+[16:43:38] [Server thread/INFO]: LoroCapitalista[/127.78.118.246:45565] logged in with entity id 3076 at (14.267727823022947, 73.0, -22.302258626335906)
+[16:43:38] [Server thread/INFO]: LoroCapitalista joined the game
+[16:43:40] [Server thread/INFO]: [LoroCapitalista: Stopping the server]
+[16:43:40] [Server thread/INFO]: Stopping server
+[16:43:40] [Server thread/INFO]: Saving players
+[16:43:40] [Server thread/INFO]: Saving worlds
+[16:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -1,60 +1,47 @@
-[16:25:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:25:50] [ServerMain/INFO]: No existing world data, creating new world
-[16:25:52] [ServerMain/INFO]: Loaded 1373 recipes
-[16:25:52] [ServerMain/INFO]: Loaded 1484 advancements
-[16:25:52] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[16:25:52] [Server thread/INFO]: Loading properties
-[16:25:52] [Server thread/INFO]: Default game type: SURVIVAL
-[16:25:52] [Server thread/INFO]: Generating keypair
-[16:25:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:25:52] [Server thread/INFO]: Using epoll channel type
-[16:25:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:25:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:25:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:25:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:25:53] [Server thread/INFO]: Preparing level "world"
-[16:26:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:26:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:10] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:10] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:11] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:11] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:12] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:12] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:13] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:13] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:15] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:15] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:15] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:16] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:26:16] [Server thread/INFO]: Time elapsed: 10399 ms
-[16:26:16] [Server thread/INFO]: Done (23.823s)! For help, type "help"
-[16:27:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:27:38] [Server thread/INFO]: [Not Secure] [Server] hola
-[16:28:13] [Server thread/INFO]: LoroCapitalista[/127.78.118.246:45895] logged in with entity id 27 at (4.5, 82.0, -4.5)
-[16:28:13] [Server thread/INFO]: LoroCapitalista joined the game
-[16:29:00] [Server thread/INFO]: Made LoroCapitalista a server operator
-[16:33:50] [Server thread/INFO]: [LoroCapitalista: Set own game mode to Creative Mode]
-[16:42:53] [Server thread/INFO]: LoroCapitalista lost connection: Disconnected
-[16:42:53] [Server thread/INFO]: LoroCapitalista left the game
-[16:43:38] [Server thread/INFO]: LoroCapitalista[/127.78.118.246:45565] logged in with entity id 3076 at (14.267727823022947, 73.0, -22.302258626335906)
-[16:43:38] [Server thread/INFO]: LoroCapitalista joined the game
-[16:43:40] [Server thread/INFO]: [LoroCapitalista: Stopping the server]
-[16:43:40] [Server thread/INFO]: Stopping server
-[16:43:40] [Server thread/INFO]: Saving players
-[16:43:40] [Server thread/INFO]: Saving worlds
-[16:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:34:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:34:33] [ServerMain/INFO]: Loaded 1373 recipes
+[17:34:33] [ServerMain/INFO]: Loaded 1484 advancements
+[17:34:33] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:34:33] [Server thread/INFO]: Loading properties
+[17:34:33] [Server thread/INFO]: Default game type: SURVIVAL
+[17:34:33] [Server thread/INFO]: Generating keypair
+[17:34:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:34:33] [Server thread/INFO]: Using epoll channel type
+[17:34:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:34:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:34:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:34:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:34:33] [Server thread/INFO]: Preparing level "world"
+[17:34:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:41] [Server thread/INFO]: Time elapsed: 6704 ms
+[17:34:41] [Server thread/INFO]: Done (7.371s)! For help, type "help"
+[17:35:05] [Server thread/INFO]: LoroCapitalista[/127.78.118.246:41451] logged in with entity id 191 at (14.267727823022947, 73.0, -22.302258626335906)
+[17:35:05] [Server thread/INFO]: LoroCapitalista joined the game
+[17:38:01] [Server thread/INFO]: LoroCapitalista has made the advancement [Stone Age]
+[17:39:12] [Server thread/INFO]: LoroCapitalista lost connection: Disconnected
+[17:39:12] [Server thread/INFO]: LoroCapitalista left the game
+[17:39:22] [Server thread/INFO]: Stopping the server
+[17:39:22] [Server thread/INFO]: Stopping server
+[17:39:22] [Server thread/INFO]: Saving players
+[17:39:22] [Server thread/INFO]: Saving worlds
+[17:39:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:39:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:39:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:39:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:39:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:39:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:39:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

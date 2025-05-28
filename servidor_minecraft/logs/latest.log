@@ -1,5 +1,5 @@
-[19:12:27] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[19:12:27] [main/INFO]: Loading 46 mods:
+[19:53:54] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[19:53:54] [main/INFO]: Loading 46 mods:
 	- fabric-api 0.125.0+1.21.5
 	   |-- fabric-api-base 0.4.62+73a52b4b49
 	   |-- fabric-api-lookup-api-v1 1.6.96+86c3a9f149
@@ -56,82 +56,109 @@
 	- larion 4.3.0
 	- lithium 0.16.2+mc1.21.5
 	- minecraft 1.21.5
-[19:12:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor-MC/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:12:27] [main/INFO]: Compatibility level set to JAVA_21
-[19:12:27] [main/INFO]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
-[19:12:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:12:42] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[19:12:42] [main/INFO]: Larion World Generation: Registered custom entries
-[19:12:42] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[19:12:42] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:12:44] [main/INFO]: No existing world data, creating new world
-[19:12:46] [main/INFO]: Loaded 1373 recipes
-[19:12:46] [main/INFO]: Loaded 1484 advancements
-[19:12:46] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.660 ms
-[19:12:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[19:12:46] [Server thread/INFO]: Loading properties
-[19:12:46] [Server thread/INFO]: Default game type: SURVIVAL
-[19:12:46] [Server thread/INFO]: Generating keypair
-[19:12:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:12:47] [Server thread/INFO]: Using epoll channel type
-[19:12:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:12:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:12:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:12:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:12:47] [Server thread/INFO]: Preparing level "world"
-[19:13:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:13:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[19:13:54] [Server thread/INFO]: Time elapsed: 17290 ms
-[19:13:54] [Server thread/INFO]: Done (67.263s)! For help, type "help"
-[19:14:17] [Server thread/INFO]: LoroCapitalista[/127.78.118.246:60861] logged in with entity id 34 at (-522.5, 122.0, -55.5)
-[19:14:17] [Server thread/INFO]: LoroCapitalista joined the game
-[19:15:44] [Server thread/INFO]: LoroCapitalista has made the advancement [Stone Age]
-[19:15:56] [Server thread/INFO]: LoroCapitalista has made the advancement [Getting an Upgrade]
-[19:22:31] [Server thread/INFO]: LoroCapitalista has made the advancement [Acquire Hardware]
-[19:24:24] [Server thread/INFO]: LoroCapitalista lost connection: Disconnected
-[19:24:24] [Server thread/INFO]: LoroCapitalista left the game
-[19:24:35] [Server thread/INFO]: Stopping the server
-[19:24:35] [Server thread/INFO]: Stopping server
-[19:24:35] [Server thread/INFO]: Saving players
-[19:24:35] [Server thread/INFO]: Saving worlds
-[19:24:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:24:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:24:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:24:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:24:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:24:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:24:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:53:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor-MC/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:53:54] [main/INFO]: Compatibility level set to JAVA_21
+[19:53:54] [main/INFO]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
+[19:53:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:54:07] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[19:54:07] [main/INFO]: Larion World Generation: Registered custom entries
+[19:54:07] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[19:54:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:54:10] [main/INFO]: Loaded 1373 recipes
+[19:54:11] [main/INFO]: Loaded 1484 advancements
+[19:54:11] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.629 ms
+[19:54:11] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[19:54:11] [Server thread/INFO]: Loading properties
+[19:54:11] [Server thread/INFO]: Default game type: SURVIVAL
+[19:54:11] [Server thread/INFO]: Generating keypair
+[19:54:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:54:11] [Server thread/INFO]: Using epoll channel type
+[19:54:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:54:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:54:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:54:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:54:11] [Server thread/INFO]: Preparing level "world"
+[19:54:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:54:43] [Server thread/INFO]: Time elapsed: 31345 ms
+[19:54:43] [Server thread/INFO]: Done (32.066s)! For help, type "help"
+[19:54:44] [Server thread/INFO]: LoroCapitalista (/127.78.118.246:47119) lost connection: Disconnected
+[19:54:44] [Server thread/INFO]: LoroCapitalista (/127.78.118.246:43269) lost connection: Disconnected
+[19:54:44] [Server thread/INFO]: [Not Secure] [Server] hola
+[19:54:54] [Server thread/INFO]: LoroCapitalista[/127.78.118.246:54401] logged in with entity id 34 at (-637.9485900377324, 64.0, -51.0107276670811)
+[19:54:54] [Server thread/INFO]: LoroCapitalista joined the game
+[19:56:43] [Server thread/INFO]: LoroCapitalista lost connection: Disconnected
+[19:56:43] [Server thread/INFO]: LoroCapitalista left the game
+[19:56:48] [Server thread/INFO]: Stopping the server
+[19:56:48] [Server thread/INFO]: Stopping server
+[19:56:48] [Server thread/INFO]: Saving players
+[19:56:48] [Server thread/INFO]: Saving worlds
+[19:56:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:56:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:56:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:56:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:56:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:56:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:56:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

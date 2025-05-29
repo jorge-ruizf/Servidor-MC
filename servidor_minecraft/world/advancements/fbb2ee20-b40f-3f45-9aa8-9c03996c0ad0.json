@@ -12,6 +12,7 @@
       "minecraft:forest": "2025-05-28 19:14:45 +0000",
       "minecraft:taiga": "2025-05-28 22:55:16 +0000",
       "minecraft:river": "2025-05-28 19:19:11 +0000",
+      "minecraft:swamp": "2025-05-29 15:57:52 +0000",
       "minecraft:stony_shore": "2025-05-28 22:55:30 +0000",
       "minecraft:plains": "2025-05-28 19:14:18 +0000"
     },
@@ -531,6 +532,7 @@
     "criteria": {
       "cooked_chicken": "2025-05-29 15:53:56 +0000",
       "cooked_mutton": "2025-05-29 15:54:26 +0000",
+      "cooked_beef": "2025-05-29 16:02:45 +0000",
       "cooked_salmon": "2025-05-28 19:23:16 +0000"
     },
     "done": false
@@ -546,7 +548,8 @@
       "minecraft:skeleton": "2025-05-28 22:47:17 +0000",
       "minecraft:spider": "2025-05-28 22:46:48 +0000",
       "minecraft:zombie": "2025-05-28 22:48:26 +0000",
-      "minecraft:creeper": "2025-05-28 22:49:48 +0000"
+      "minecraft:creeper": "2025-05-28 22:49:48 +0000",
+      "minecraft:slime": "2025-05-29 16:03:05 +0000"
     },
     "done": false
   },
@@ -1114,9 +1117,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-29 15:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-29 15:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-29 16:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-29 15:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-29 16:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-05-29 15:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-05-29 15:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-05-29 15:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-29 16:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-29 16:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-29 15:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-29 16:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-29 15:58:39 +0000"
     },
     "done": true
   },

@@ -248,3 +248,20 @@
 [15:57:15] [Server thread/WARN]: Oak Boat (vehicle of LoroCapitalista) moved too quickly! 10.71071085679614,0.0,-12.862229572676597
 [15:57:15] [Server thread/WARN]: Oak Boat (vehicle of LoroCapitalista) moved too quickly! 11.058993465784852,0.0,-13.04413013015062
 [15:57:15] [Server thread/WARN]: Oak Boat (vehicle of LoroCapitalista) moved too quickly! 11.409345490949818,0.0,-13.22328603595173
+[15:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10025ms or 200 ticks behind
+[15:59:31] [Server thread/INFO]: LoroCapitalista has made the advancement [Isn't It Iron Pick]
+[16:02:04] [Server thread/INFO]: [Not Secure] <LoroCapitalista> zzz
+[16:02:22] [Server thread/INFO]: LoroCapitalista has made the advancement [Not Today, Thank You]
+[16:03:37] [Server thread/INFO]: LoroCapitalista lost connection: Disconnected
+[16:03:37] [Server thread/INFO]: LoroCapitalista left the game
+[16:03:46] [Server thread/INFO]: Stopping the server
+[16:03:46] [Server thread/INFO]: Stopping server
+[16:03:46] [Server thread/INFO]: Saving players
+[16:03:46] [Server thread/INFO]: Saving worlds
+[16:03:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
